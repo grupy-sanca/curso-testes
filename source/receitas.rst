@@ -10,3 +10,15 @@ Exemplo1
 
    import pytest
    assert 1 == 1
+
+
+Integração com CI
+-----------------
+
+Travis CI
+.........
+
+TODO
+
+GitHub Actions
+..............

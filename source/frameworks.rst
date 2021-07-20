@@ -1,14 +1,54 @@
 Bibliotecas Python
 ==================
 
-bla
+TODO
 
 pytest
 ------
 
-bla
+o que é
+.......
+
+o que é
+
+vantagem sobre unittest
+
+configuração
+............
+
+como rodar
+..........
+
+async
+.....
+
+fixtures
+........
+
+conftest
+........
+
+flags
+.....
+
+(e.g. pytest -k)
 
 coverage
 --------
 
-ble
+TODO
+
+freezegun
+---------
+
+TODO
+
+deadfixtures
+------------
+
+TODO
+
+parametrize
+-----------
+
+TODO
