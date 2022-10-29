@@ -20,3 +20,5 @@ Driven
 Development
 frameworks
 pyunit
+bugs
+scripts

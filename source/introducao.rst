@@ -20,7 +20,7 @@ Do ponto de vista financeiro, testes reduzem custos, pois diminuem a ocorrência
 Do ponto de vista de gestão, testes aprimoram o planejamento de execução rastreabilidade da maturidade e desenvolvimento das diferentes partes do software. Por exemplo, é possível definir previamente quais componentes requerem maior confiabilidade e alocar recursos de testes para os mesmos, bem como acelerar o desenvolvimento de componentes menos críticos. 
 
 Quais são os tipos de testes?
----------------
+-----------------------------
 
 Testes podem ser aplicados em diferentes camadas da aplicação. Os principais tipos de teste são o Unitário, de Integração e de Sistema. 
 
