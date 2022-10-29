@@ -60,8 +60,7 @@ Conceitos importantes
 
 - cobertura
 - TDD
-- código testável vs. código não testável (escrever o código com testes 
-em mente)
+- código testável vs. código não testável (escrever o código com testes em mente)
 - automatizar testes
 
 Exemplos de frameworks
