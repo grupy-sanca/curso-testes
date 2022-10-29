@@ -22,7 +22,13 @@ Do ponto de vista de gestão, testes aprimoram o planejamento de execução rast
 Quais são os tipos de testes?
 ---------------
 
-.. ser breve, falar de unitário, integração, e sistema
+Testes podem ser aplicados em diferentes camadas da aplicação. Os principais tipos de teste são o Unitário, de Integração e de Sistema. 
+
+Os Testes Unitários verificam um módulo, parte pequena e isolada do software, identificando erros de lógica e implementação. 
+
+Testes de Integração verificam a interação entre diferentes módulos do sistema. 
+
+Já o Teste de Sistema verifica a aplicação como uma camada de abstração maior de maneira a testar seu todo, assim validando o cumprimento dos requisitos, sem se preocupar em como estão sendo implementados internamente, o que já deve ter sido testando em testes unitários e de integração.
 
 Exemplo simples
 ---------------
